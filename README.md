@@ -1,4 +1,4 @@
-**Simple POC to familiarise my self with dynamodb**
+**Simple POC to familiarise myself with dynamodb**
 * Based on https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.NodeJs.01.html
 * Using sandbox
 * No webpack, only wanted to concentrate on dynamo
