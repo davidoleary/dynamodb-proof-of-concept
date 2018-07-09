@@ -2,10 +2,11 @@
   "name": "dynamodb-proof-of-concept",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "david.oleary>",
+  "author": "david.oleary",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.267.1",
-    "dynamodb": "^1.1.2"
+    "aws-sdk": "^2.270.1",
+    "dotenv": "^6.0.0",
+    "dynamoose": "^0.8.7"
   }
 }
